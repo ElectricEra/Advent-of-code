@@ -1,6 +1,6 @@
 Solution to this task is based on the logic that there are 3 options and every next one beats previous.
 
-By converting "A" (Rock), "B"(Paper) and "C"(Scissors) to 0, 1 and 2, you can work with numbers now.
+By converting "A" (Rock), "B" (Paper) and "C" (Scissors) to 0, 1 and 2, you can work with numbers now.
 
 0 (Rock) ties with 0 (Rock).
 0 (Rock) loses to 1 (Paper).
